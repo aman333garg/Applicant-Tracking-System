@@ -1,8 +1,7 @@
-# recurrent-neural-networks
-Learning about and doing projects with recurrent neural networks
+# Applicant Tracking System
+This project involves building a Flask web application for the Resume screening script that can be deployed/hosted on AWS cloud. 
 
 ## Setup using docker and docker-compose
-
 ```bash
 docker-compose up --build flask 
 ```
